@@ -4,3 +4,5 @@ __pycache__/
 data/synthetic_cells/
 results/plots/
 .env
+.DS_Store
+.Trash/
