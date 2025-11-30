@@ -3,7 +3,7 @@
 A modular pipeline for simulating and analyzing grayscale cell images — built for clarity, reproducibility, and real-world relevance.
 
 
-##Overview
+###Overview
 
 This project simulates a full bioimage analysis workflow using synthetic microscopy-like images. It includes:
 
@@ -15,7 +15,7 @@ This project simulates a full bioimage analysis workflow using synthetic microsc
 - CSV export for downstream analysis  
 
 
-##Goals
+###Goals
 
 - Preprocess cell images (denoising, segmentation)  
 - Extract morphological features  
@@ -23,13 +23,13 @@ This project simulates a full bioimage analysis workflow using synthetic microsc
 - Visualize clusters and explore biological patterns  
 
 
-##Tools
+###Tools
 
 - Core: scikit-image, OpenCV, NumPy, Pandas, scikit-learn, matplotlib 
 - Optional: napari for interactive image inspection  
 
 
-##Installation
+###Installation
 
 Clone the repo and set up the environment:
 'bash
