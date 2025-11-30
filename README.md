@@ -33,8 +33,7 @@ This project simulates a full bioimage analysis workflow using synthetic microsc
 
 Clone the repo and set up the environment:
 'bash
-git clone https://github.com/jehonaramadani/CellMorph_Explore.git
-cd CellMorph_Explore
-conda env create -f environment.yml
-conda activate cellmorph
-
+i. git clone https://github.com/jehonaramadani/CellMorph_Explore.git
+ii. cd CellMorph_Explore
+iii. conda env create -f environment.yml
+iv. conda activate cellmorph
