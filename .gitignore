@@ -6,3 +6,10 @@ results/plots/
 .env
 .DS_Store
 .Trash/
+.DS_Store
+.Trash/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.ipynb_checkpoints/
